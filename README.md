@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://randicrews.netlify.app/)" target="_blank">
+    <a href="https://randicrews.netlify.app/" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=PORTFOLIO&color=22557f&style=plastic&logo=react&logo-color=white"/>
     </a>
     <a href="https://www.linkedin.com/in/randicrews/" target="_blank">
